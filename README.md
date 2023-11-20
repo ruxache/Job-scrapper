@@ -25,7 +25,7 @@ During phone number extraction, the script excludes the phone number associated 
 
 ## Job Data
 
-The script extracts job details such as title, URL, phone numbers, and email addresses. Here is a preview of the extracted data. **The phone numbers and email addresses in this table are not real**:
+The script extracts job details such as title, URL, phone numbers, and email addresses. Here is a preview of the extracted data. **The job link, phone numbers and email addresses in this table are not real**:
 
 | Title                                         | URL                                                      | Phone Numbers                  | Email Addresses                                     |
 |-----------------------------------------------|----------------------------------------------------------|--------------------------------|-----------------------------------------------------|
